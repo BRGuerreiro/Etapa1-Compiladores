@@ -1,0 +1,15 @@
+c:\users\home-pc\documents\visual studio 2013\Projects\E1\E1\bin\Debug\E1.exe.config
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\bin\Debug\E1.exe
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\bin\Debug\E1.pdb
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\obj\Debug\E1.csprojResolveAssemblyReference.cache
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\obj\Debug\Combined1Lexer.cs
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\obj\Debug\Combined1Parser.cs
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\obj\Debug\Combined1Listener.cs
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\obj\Debug\Combined1BaseListener.cs
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\obj\Debug\Combined1Visitor.cs
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\obj\Debug\Combined1BaseVisitor.cs
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\obj\Debug\E1.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\obj\Debug\E1.exe
+C:\Users\Home-PC\Documents\Visual Studio 2013\Projects\E1\E1\obj\Debug\E1.pdb
